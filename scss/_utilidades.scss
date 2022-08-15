@@ -1,0 +1,21 @@
+.contenedor {
+  width: 90%;
+  max-width: 120rem;
+  margin: 0 auto;
+}
+
+.btn {
+  background-color: $blanco;
+  border: 1px solid $gris;
+  color: $gris;
+  padding: .5rem 2rem;
+  transition: background-color .2s;
+  &:hover {
+    background-color: $gris;
+    color: $blanco;
+  }
+}
+
+.text-center {
+  text-align: center;
+}
