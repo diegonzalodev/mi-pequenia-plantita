@@ -4,7 +4,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: $negro;
+  color: $blanco;
   padding: 2.5rem 0;
   &__contenido {
     height: calc(65rem - 5rem);
@@ -28,7 +28,7 @@
   }
   &__contacto {
     a {
-      color: $negro;
+      color: $blanco;
       font-size: 1.7rem;
     }
   }
@@ -41,7 +41,7 @@
       background-image: url(../img/telefono.png);
       background-position: center center;
       background-repeat: no-repeat;
-      color: $negro !important;
+      color: $blanco;
       content: '';
       display: block;
       margin-right: 1rem;
