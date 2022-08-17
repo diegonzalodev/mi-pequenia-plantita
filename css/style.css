@@ -58,7 +58,7 @@ img {
 
 .header {
   min-height: 65rem;
-  background-image: url("../../img/hero.avif");
+  background-image: url("../../img/hero.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -145,13 +145,13 @@ img {
     font-size: 2.8rem; }
 
 .interiores {
-  background-image: url(../../img/interior.avif); }
+  background-image: url(../../img/interior.webp); }
 
 .exteriores {
-  background-image: url(../../img/exterior.avif); }
+  background-image: url(../../img/exterior.webp); }
 
 .hogar {
-  background-image: url(../../img/parte-del-hogar.avif); }
+  background-image: url(../../img/parte-del-hogar.webp); }
 
 .titulo__galeria {
   font-size: 4rem;
@@ -176,7 +176,7 @@ img {
 
 .footer {
   height: 35rem;
-  background-image: url(../../img/footer.avif);
+  background-image: url("../../img/footer.webp");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
