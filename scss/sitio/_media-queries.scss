@@ -37,6 +37,9 @@
       h2 {
         font-size: 4.5rem;
       }
+      p {
+        font-size: 2.5rem;
+      }
     }
   }
   .nosotros {
@@ -81,11 +84,12 @@
           display: inline;
         }
         a{
+          color: $blanco;
           padding: 1rem 2rem;
           transition: background-color .2s;
           &:hover {
-            background-color: rgba(0, 0, 0, .7);
-            color: $blanco;
+            background-color: $blanco;
+            color: $negro;
             font-weight: 700;
           }
         }
