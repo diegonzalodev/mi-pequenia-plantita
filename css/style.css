@@ -58,7 +58,7 @@ img {
 
 .header {
   min-height: 65rem;
-  background-image: url("../../img/hero.webp");
+  background-image: url("../img/hero.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -87,7 +87,7 @@ img {
     .header__telefono::before {
       width: 4rem;
       height: 4rem;
-      background-image: url(../../img/telefono.png);
+      background-image: url(../img/telefono.png);
       background-position: center center;
       background-repeat: no-repeat;
       color: #111 !important;
@@ -109,7 +109,7 @@ img {
     line-height: 1; }
 
 .nosotros {
-  background-image: url(../../img/nosotros.avif);
+  background-image: url(../img/nosotros.webp);
   background-position: bottom center;
   background-repeat: no-repeat;
   background-size: 80rem;
@@ -145,13 +145,13 @@ img {
     font-size: 2.8rem; }
 
 .interiores {
-  background-image: url(../../img/interior.webp); }
+  background-image: url(../img/interior.webp); }
 
 .exteriores {
-  background-image: url(../../img/exterior.webp); }
+  background-image: url(../img/exterior.webp); }
 
 .hogar {
-  background-image: url(../../img/parte-del-hogar.webp); }
+  background-image: url(../img/parte-del-hogar.webp); }
 
 .titulo__galeria {
   font-size: 4rem;
@@ -176,7 +176,7 @@ img {
 
 .footer {
   height: 35rem;
-  background-image: url("../../img/footer.webp");
+  background-image: url("../img/footer.webp");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
