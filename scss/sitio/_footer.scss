@@ -1,0 +1,22 @@
+.footer {
+  height: 35rem;
+  background-image: url(../../img/footer.avif);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: $blanco;
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  a {
+    color: $blanco;
+  }
+  .copyright {
+    background-color: $negro;
+    margin: 1rem 0 0 0;
+    padding: 1.5rem 0;
+    font-size: 1.7rem;
+    text-align: center;
+  }
+}

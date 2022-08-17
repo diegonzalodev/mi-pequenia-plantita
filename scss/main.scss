@@ -1,4 +1,12 @@
 @import 'variables';
+
 @import 'default';
 @import 'globales';
 @import 'utilidades';
+
+@import 'sitio/header';
+@import 'sitio/sobre-nosotros';
+@import 'sitio/modelos';
+@import 'sitio/galeria';
+@import 'sitio/footer';
+@import 'sitio/media-queries';
